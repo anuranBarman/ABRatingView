@@ -3,7 +3,7 @@
 A simple and customizable rating view for your next iOS app.
 
 <video controls>
-  <source src="https://drive.google.com/file/d/1GVq9OiskkN0_YM7-VfMir674sIxMD1Vc/view?usp=sharing" type="video/mp4">
+  <source src="https://youtube.com/shorts/1ILFi2LfkO0?feature=share" type="video/mp4">
 </video>
 
 ### Installation
