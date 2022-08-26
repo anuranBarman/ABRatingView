@@ -504,6 +504,10 @@ public struct ABRatingViewConfiguration {
         [UIColor(hex: 0xF8A031),UIColor(hex: 0xF8B661)],
     ]
     
+    public init(){
+        
+    }
+    
     struct ABRatingViewFont {
         var font:UIFont
         var textColor:UIColor = .white
