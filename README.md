@@ -2,6 +2,8 @@
 
 A simple and customizable rating view for your next iOS app.
 
+UI/UX inspired from Dribbble by <a href="https://dribbble.com/shots/3828382-Feedback">Adip Nayak</a>
+
 <div align="left">
       <a href="https://youtube.com/shorts/1ILFi2LfkO0?feature=share">
          <img src="https://img.youtube.com/vi/1ILFi2LfkO0/0.jpg" style="width:100%;">
