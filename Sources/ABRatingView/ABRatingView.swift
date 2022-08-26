@@ -16,7 +16,7 @@ public class ABRatingView:UIView {
     private var onSubmit:((_ star:Int)->Void)!
     private var givenStar:Int = 5
     
-    convenience init(configuration:ABRatingViewConfiguration = ABRatingViewConfiguration(),onSkip:@escaping ()->Void,onSubmit:@escaping (_ star:Int)->Void) {
+    public convenience init(configuration:ABRatingViewConfiguration = ABRatingViewConfiguration(),onSkip:@escaping ()->Void,onSubmit:@escaping (_ star:Int)->Void) {
         self.init()
         self.config = configuration
         self.onSkip = onSkip
