@@ -508,7 +508,7 @@ public struct ABRatingViewConfiguration {
         
     }
     
-    struct ABRatingViewFont {
+    public struct ABRatingViewFont {
         var font:UIFont
         var textColor:UIColor = .white
     }
