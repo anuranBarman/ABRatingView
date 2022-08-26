@@ -2,9 +2,11 @@
 
 A simple and customizable rating view for your next iOS app.
 
-<video controls>
-  <source src="https://youtube.com/shorts/1ILFi2LfkO0?feature=share" type="video/mp4">
-</video>
+<div align="left">
+      <a href="https://youtube.com/shorts/1ILFi2LfkO0?feature=share">
+         <img src="https://img.youtube.com/vi/1ILFi2LfkO0/0.jpg" style="width:100%;">
+      </a>
+</div>
 
 ### Installation
 
