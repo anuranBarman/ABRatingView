@@ -487,7 +487,7 @@ fileprivate class StarHolder:UIView {
 }
 
 
-struct ABRatingViewConfiguration {
+public struct ABRatingViewConfiguration {
     var title = "Please rate your experience"
     var subTitle = "Do let us know your thoughts, your feedback matters"
     var submitButtonTitle = "SUBMIT"
